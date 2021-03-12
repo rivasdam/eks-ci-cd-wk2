@@ -1,1 +1,1 @@
-# eks-ci-cd-wk2
+# eks-example
